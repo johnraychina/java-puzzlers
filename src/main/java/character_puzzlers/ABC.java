@@ -3,7 +3,7 @@ package character_puzzlers;
 /**
  * To summarize, char arrays are not strings. To convert a char array to a string, invoke String.valueOf(char[]).
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class ABC {
 

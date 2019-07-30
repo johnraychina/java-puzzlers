@@ -7,7 +7,7 @@ package character_puzzlers;
  * of a valid Unicode escape, even in comments.
  * Be particularly wary of this problem in machine-generated code.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 
 public class HelloWhirled {

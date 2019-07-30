@@ -8,7 +8,7 @@ package expressive_puzzlers;
  *
  * The lesson is simple: When working with large numbers, watch out for overflow—it’s a silent killer.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class LongDivision {
 

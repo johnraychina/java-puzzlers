@@ -9,7 +9,7 @@ package expressive_puzzlers;
  * operator performs a <b>silent narrowing primitive conversion [JLS 5.1.3]</b>.
  * Attempting to perform the equivalent simple assignment would generate a compilation error, with good reason.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class Tweedledum {
 

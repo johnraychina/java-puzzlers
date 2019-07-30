@@ -5,7 +5,7 @@ package character_puzzlers;
  *
  * Arguably, the program is still broken. Your code should rarely, if ever, depend on the interning of string constants.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class AnimalFarm {
 

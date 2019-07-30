@@ -16,7 +16,7 @@ package expressive_puzzlers;
  * can take on negative values without an explicit minus sign. To avoid this sort of difficulty, it is generally best to
  * avoid mixed-type computations.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class JoyOfHex {
     public static void main(String[] args) {

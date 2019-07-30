@@ -18,7 +18,7 @@ package loopy_puzzlers;
  * which adding 1 will have no effect is 2<sup>25</sup>, or 33,554,432; for the
  * double type, it is 254, or approximately 1.8 × 1016.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class Infinite {
     public static void main(String[] args) {

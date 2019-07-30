@@ -6,7 +6,7 @@ package loopy_puzzlers;
  * made even more misleading because the variable is named i, a name that is usually reserved for integer variables.
  * Good variable, method, and class names are at least as important to program readability as good comments.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class SonOfLooper {
     public static void main(String[] args) {

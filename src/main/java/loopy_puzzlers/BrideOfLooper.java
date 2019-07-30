@@ -12,7 +12,7 @@ package loopy_puzzlers;
  * and no further computation can repair the damage. The NaN value is intended to allow a damaged computation to proceed
  * to a point where it is convenient to deal with the situation.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class BrideOfLooper {
 

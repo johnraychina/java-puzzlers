@@ -1,10 +1,9 @@
 package loopy_puzzlers;
 
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 /**
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class Looper {
     public static void main(String[] args) {

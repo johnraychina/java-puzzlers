@@ -15,7 +15,7 @@ package loopy_puzzlers;
  * The lesson is this the same as in Puzzle 7: Do not assign to the same vari-
  * able more than once in a single expression.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class Increment {
     public static void main(String[] args) {

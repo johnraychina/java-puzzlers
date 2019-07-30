@@ -10,7 +10,7 @@ package character_puzzlers;
  * The lesson of this puzzle is that misleading comments and extraneous code cause confusion. Write comments carefully
  * and keep them up to date. Excise dead code. Also, if something seems too strange to be true, it’s probably false.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class BrowserTest {
 

@@ -19,7 +19,7 @@ import java.math.RoundingMode;
  *     type, as did COBOL and PL/I.
  * </pre>
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class TimeForAChange {
 

@@ -21,7 +21,7 @@ package loopy_puzzlers;
  * left shift with a right- shift operator or vice-versa. Use a constant shift distance if possible, and exercise care
  * if the shift distance can’t be made constant.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class Shifty {
     public static void main(String[] args) {

@@ -12,7 +12,7 @@ package loopy_puzzlers;
  * mixed-type arithmetic, which can be confusing in and of itself. Far worse, they perform an implicit narrowing cast,
  * which can discard information. The results can be disastrous.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class GhostOfLooper {
     public static void main(String[] args) {

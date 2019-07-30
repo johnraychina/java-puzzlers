@@ -9,7 +9,7 @@ package expressive_puzzlers;
  * Mixed-type computation can be confusing.
  * Nowhere is this more apparent than in conditional expressions.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class DosEquis {
 

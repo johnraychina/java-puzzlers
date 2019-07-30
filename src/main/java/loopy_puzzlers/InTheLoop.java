@@ -11,7 +11,7 @@ package loopy_puzzlers;
  * What happens if the value underflows or overflows?
  * Often it is best to use a larger type. (Theintegral types are byte, char, short, int, and long.)
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class InTheLoop {
 

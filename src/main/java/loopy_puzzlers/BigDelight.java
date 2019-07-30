@@ -7,7 +7,7 @@ package loopy_puzzlers;
  * To summarize: Avoid mixed-type comparisons, because they are inher- ently confusing (Puzzle 5).
  * To help achieve this goal, use declared constants in place of “magic numbers.”
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class BigDelight {
     public static void main(String[] args) {

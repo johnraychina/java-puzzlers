@@ -8,7 +8,7 @@ import java.util.Random;
  * Third, use common idioms and APIs, and consult the documentation when you stray from the well-worn path.
  * Fourth, a char is not a String but is more like an int. Finally, watch out for sneaky puzzlers.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class Rhymes {
     private static Random rnd = new Random();

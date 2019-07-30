@@ -10,7 +10,7 @@ package character_puzzlers;
  * Hopefully, the last three puzzles have convinced you that Unicode escapes can be thoroughly confusing. The lesson is
  * simple: Avoid Unicode escapes except where they are truly necessary. They are rarely necessary.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class LinePrinter {
     public static void main(String[] args) {

@@ -10,7 +10,7 @@ package loopy_puzzlers;
  Integer.max_value * 2 = same as left shift 1 = 11111111111111111111111111111110
  *
  </pre>
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class OverflowTest {
     public static void main(String[] args) {

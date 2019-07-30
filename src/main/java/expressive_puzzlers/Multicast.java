@@ -25,7 +25,7 @@ package expressive_puzzlers;
  * signed and unsigned integral types, most programmers don’t know it. If your program depends on it, make your
  * intentions clear.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class Multicast {
 

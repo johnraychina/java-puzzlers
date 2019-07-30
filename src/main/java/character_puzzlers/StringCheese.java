@@ -18,7 +18,7 @@ import java.io.UnsupportedEncodingException;
  * The lesson of this puzzle is that every time you translate a byte sequence to a String, you are using a charset,
  * whether you specify it explicitly or not.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class StringCheese {
     public static void main(String[] args) throws UnsupportedEncodingException {

@@ -3,7 +3,6 @@ package thread_puzzlers;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.ForkJoinPool;
 
 /**
  *
@@ -13,7 +12,7 @@ import java.util.concurrent.ForkJoinPool;
  *
  * JVM won't exit as the ReferenceHandler just keep running.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class NonStopCompletableFuture {
 

@@ -12,7 +12,7 @@ package character_puzzlers;
  * ASCII characters. Inside of string and character literals, use escape sequences; outside of these literals, insert
  * ASCII characters directly into the source file.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class EscapeRout {
     public static void main(String[] args) {

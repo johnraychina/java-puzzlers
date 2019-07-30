@@ -7,7 +7,7 @@ package character_puzzlers;
  * In summary, use the string concatenation operator with care. The + operator performs string concatenation if and only
  * if at least one of its operands is of type String; otherwise, it performs addition.
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class LastLaugh {
     public static void main(String args[]) {

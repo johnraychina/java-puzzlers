@@ -9,7 +9,7 @@ package expressive_puzzlers;
  * assign to multiple variables are suspect. More generally, avoid clever programming tricks. They are bug-prone,
  * difficult to maintain, and often run more slowly than the straightforward code they replace [EJ Item 37].
  *
- * @author 张义 reed.zy@alibaba-inc.com
+ * @author 张义 johnraychina@163.com
  */
 public class SwapMeat {
 
