@@ -19,5 +19,6 @@ public class GhostOfLooper {
         //Provide a declaration for i that turns this loop into an infinite loop:
         byte i = -1;
         while (i != 0) { i >>>= 1; }
+        //while (i != 0) { i >>= 1; }
     }
 }
