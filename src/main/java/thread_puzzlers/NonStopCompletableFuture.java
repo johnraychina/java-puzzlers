@@ -2,7 +2,7 @@ package thread_puzzlers;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
+import java.util.concurrent.ForkJoinPool;
 
 /**
  * This program demonstrate the mis-usage of CompletableFuture with Executor.
@@ -37,8 +37,8 @@ import java.util.concurrent.Executors;
  */
 public class NonStopCompletableFuture {
 
-    static ExecutorService executorService = Executors.newFixedThreadPool(4);
-    //static ExecutorService executorService = ForkJoinPool.commonPool();
+    //static ExecutorService executorService = Executors.newFixedThreadPool(4);
+    static ExecutorService executorService = ForkJoinPool.commonPool();
 
     public static String doSomething() {
         System.out.println(Thread.currentThread().getName() + ": Huh?");
