@@ -2,6 +2,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.ForkJoinTask;
 import java.util.concurrent.ForkJoinWorkerThread;
+import java.util.concurrent.ScheduledExecutorService;
 
 /**
  * 重复使用、等待结束、异常处理、线程工作模式
@@ -23,6 +24,9 @@ public class UnderstandForkJoinPool {
         // difference between fork/join thread pool and normal thread pool
         Executors.newFixedThreadPool(10);
         Executors.newWorkStealingPool(4);
+        ScheduledExecutorService scheduledExecutorService = Executors.newScheduledThreadPool();
+        scheduledExecutorService.scheduleWithFixedDelay(); //jdk 8
+        scheduledExecutorService.scheduleAtFixedRate(); //jdk8
 
         ForkJoinWorkerThread fjThread;
         ForkJoinTask fjTask;
